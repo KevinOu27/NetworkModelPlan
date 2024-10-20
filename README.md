@@ -55,16 +55,10 @@ How to Run the Project
 
 Clone the repository:
 bash
-Copy code
+
 git clone https://github.com/KevinOu27/NetworkModelPlan.git
 
-Set up the backend and frontend environments (instructions provided in the respective directories).
 
-Review the project plan and timeline in /project-planning.
-
-Execute the linear programming optimization (in /project-planning) to generate task timelines for each scenario.
-
-Use the documentation in the /docs folder for detailed insights into the project's execution.
 
 Conclusion
 This repository serves as the foundation for building a personalized recommendation system, with detailed planning and implementation strategies provided. The project timeline has been optimized using linear programming techniques, ensuring that the system can be delivered on time and on budget.
