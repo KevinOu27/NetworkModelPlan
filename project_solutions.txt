@@ -1,0 +1,50 @@
+Best-case solution:
+T_A: 0.0 hours
+T_B: 0.0 hours
+T_C: 8.0 hours
+T_D1: 8.0 hours
+T_D2: 32.0 hours
+T_D3: 40.0 hours
+T_D4: 64.0 hours
+T_D5: 150.0 hours
+T_D6: 114.0 hours
+T_D7: 138.0 hours
+T_D8: 170.0 hours
+T_E: 20.0 hours
+T_F: 190.0 hours
+T_G: 186.0 hours
+T_H: 202.0 hours
+
+Expected-case solution:
+T_A: 0.0 hours
+T_B: 0.0 hours
+T_C: 12.0 hours
+T_D1: 12.0 hours
+T_D2: 48.0 hours
+T_D3: 60.0 hours
+T_D4: 96.0 hours
+T_D5: 230.0 hours
+T_D6: 176.0 hours
+T_D7: 212.0 hours
+T_D8: 260.0 hours
+T_E: 32.0 hours
+T_F: 292.0 hours
+T_G: 284.0 hours
+T_H: 308.0 hours
+
+Worst-case solution:
+T_A: 0.0 hours
+T_B: 0.0 hours
+T_C: 16.0 hours
+T_D1: 16.0 hours
+T_D2: 64.0 hours
+T_D3: 80.0 hours
+T_D4: 128.0 hours
+T_D5: 300.0 hours
+T_D6: 228.0 hours
+T_D7: 276.0 hours
+T_D8: 340.0 hours
+T_E: 44.0 hours
+T_F: 384.0 hours
+T_G: 372.0 hours
+T_H: 404.0 hours
